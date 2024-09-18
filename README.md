@@ -1,3 +1,3 @@
 Team:
 Dev: Mahendra & Ade
-Ops: Dhipe
+Ops: Dhipa
