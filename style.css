@@ -1,6 +1,10 @@
 body {
     font-family: Arial, sans-serif;
+<<<<<<< HEAD
     background-color: #f4f4f4;
+=======
+    background-color: #e0f7fa;
+>>>>>>> Branch-ade
     margin: 0;
     padding: 0;
 }
@@ -8,7 +12,11 @@ body {
 .card {
     background-color: #fff;
     border-radius: 8px;
+<<<<<<< HEAD
     box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+=======
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);
+>>>>>>> Branch-ade
     max-width: 400px;
     margin: 20px auto;
     padding: 20px;
@@ -16,10 +24,18 @@ body {
 }
 
 h2 {
+<<<<<<< HEAD
     color: #333;
+=======
+    color: #00796b;
+>>>>>>> Branch-ade
 }
 
 p {
     font-size: 16px;
+<<<<<<< HEAD
     color: #555;
+=======
+    color: #004d40;
+>>>>>>> Branch-ade
 }
